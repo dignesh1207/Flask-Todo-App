@@ -73,13 +73,6 @@ The database (`instance/site.db`) will be created automatically on first run.
 
 ---
 
-## 📸 Screenshots
-
-> _Add a screenshot of your app here once it's live!_
-> `![App Screenshot](screenshots/preview.png)`
-
----
-
 ## 📌 Notes
 
 - This project was built as a learning exercise following along with [CodeWithHarry](https://www.youtube.com/@CodeWithHarry)
